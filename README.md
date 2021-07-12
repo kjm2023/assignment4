@@ -1,9 +1,10 @@
-#Assignment 4 | CSS Positioning
+# Assignment 4 | CSS Positioning
 
 **Name:** Kenyada McLeod
+
 **Semester:** Summer 2021
 
-##Resources Consulted
+## Resources Consulted
 
 * [CSS Animations](https://www.w3schools.com/css/css3_animations.asp)
 * [Lorem Ipsum](https://lipsum.com/)
